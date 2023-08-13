@@ -78,7 +78,6 @@
 
 # GitHub Stats
 <p>
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=vipulrathod007&show_icons=true&theme=transparent&locale=en&layout=compact&title_color=ffffff&text_color=ffffff" alt="vipulrathod007" />
     <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipulrathod007&show_icons=true&theme=transparent&locale=en&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff" alt="vipulrathod007" />
 </p>
 </div>
