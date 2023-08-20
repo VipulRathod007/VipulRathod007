@@ -15,7 +15,7 @@
 
 📄 Hire me? Check out my [Resume](https://drive.google.com/file/d/1mPwRLfjkcfOYssdoPLzAb_hRHGiCkQ93/view)
 
-⚡ Fun fact **I enjoy Photography!**
+⚡ Fun fact **I'm into Photography!**
 
 </div>
 
